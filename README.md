@@ -25,3 +25,11 @@ This theme has some optional configuration support for social buttons. Just add 
 	  linkedin: johndoe
 
 Icons with links to your profiles will then appear on the navbar. Your stalkers will *love* you for making things so easy!
+
+## Developers Info
+
+To recompile css just do:
+
+	compass compile --sass-dir _sass --css-dir css --images-dir images --javascripts-dir js --output-style compressed --force
+
+from the `assets/themes/hooligan/` directory
