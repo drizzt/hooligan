@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 35, ../_sass/_base.scss */
 a {
-  color: #4cb4e8;
+  color: #e8804c;
   -moz-transition: all 0.3s;
   -o-transition: all 0.3s;
   -webkit-transition: all 0.3s;
@@ -39,7 +39,7 @@ a {
 }
 /* line 37, ../_sass/_base.scss */
 a:hover {
-  color: #d4edf9;
+  color: #f9e0d4;
   text-decoration: none;
 }
 
